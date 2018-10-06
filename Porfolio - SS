@@ -1,0 +1,4 @@
+**Working with Strings
+
+name = 'caro'
+print (name)
